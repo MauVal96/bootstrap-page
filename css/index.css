@@ -5,3 +5,11 @@
 #footer a {
     color: white;
 }
+
+#header img {
+    max-width: 80px;
+}
+
+.text-platzi {
+    color: white !important;
+}
