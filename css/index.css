@@ -11,7 +11,7 @@
 }
 
 .text-platzi {
-    color: white !important;
+    color:  #82AD36 !important;
 }
 
 #main .carousel-inner img{
@@ -38,4 +38,13 @@
 #carousel .overlay .container,
 #carousel .overlay .row {
     height: 100%;
+}
+
+.btn-platzi {
+    background-color: #97c93e;
+    color:white
+}
+
+.btn-platzi:hover {
+    background-color: #82AD36;
 }
