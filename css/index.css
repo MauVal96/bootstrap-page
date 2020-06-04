@@ -48,3 +48,12 @@
 .btn-platzi:hover {
     background-color: #82AD36;
 }
+
+#place-time img {
+    max-width: 100%;
+}
+
+#place-time {
+    background-color: #343a40;
+    color:white;
+}
